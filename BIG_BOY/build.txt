@@ -1,0 +1,3 @@
+displayName = Big Boy Mod
+author = Yours Truly
+version = 0.1
